@@ -12,7 +12,7 @@ const Content = (props: { children: ReactNode }) => {
   
   
   ## About Us
-  Mindfire Digital LLP, a leading provider of Software & IT services dedicated to enhancing business growth through the development and delivery of complex projects. With over two decades of experience, Mindfire has forged partnerships with global companies across diverse industries, consistently delivering stellar software products. Our highly skilled team of 650+ passionate technologists excels at connecting the dots between people, technology, products, and business, ensuring seamless innovation and success.
+  Mindfire Digital LLP is a leading provider of Software & IT services. We are dedicated to business growth through the development and delivery of custom projects. With over two decades of experience, Mindfire has forged partnerships with global companies across diverse industries, consistently delivering stellar software products. Our highly skilled team of 650+ passionate technologists excel at connecting the dots between people, technology, products, and business, ensuring seamless innovation and success.
   [Visit our official website](https://www.mindfiredigitalllp.com/)
   
   
